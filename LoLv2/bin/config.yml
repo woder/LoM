@@ -1,0 +1,20 @@
+# Thanks for using LOLMod by woder22!
+lol:
+  debug: false
+  general:
+    combat:
+      
+      # These correspond to when a single tnt or mine explosion kills > 1 person.
+      TwoKill: Double
+      ThreeKill: Triple
+      FourKill: Quadra
+      FiveKill: Penta
+      SixKillPlus: Legendary
+      
+      # Seriously, who likes FF? Only hardcore people! Which isn't me, but may be you!
+      friendlyFire: false
+
+# These should either be set by you manually, or loaded automatically from a level file.
+arena:
+  locations:
+    

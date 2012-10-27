@@ -1,0 +1,19 @@
+name: LOL
+main: me.woder.LOL.LOL
+version: 3.00
+author: woder
+commands:
+       join:
+        usage: /join to join a team
+       setblue:
+        usage: /setblue
+       setpurple:
+        usage: /setpurple
+       e:
+        usage: /e
+       iam:
+        usage: /iam <champion name>
+       gameend:
+        usage: /gameend
+       lol:
+        usage: /lol

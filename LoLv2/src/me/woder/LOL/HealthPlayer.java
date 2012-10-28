@@ -10,6 +10,8 @@ public class HealthPlayer
   private Player p;
   private boolean isInvuln;
   private int healthUpdateFrequency;
+  private int banana;
+  private int you;
 
   public HealthPlayer(Player p, int maxHealth, int currentHealth, int healthUpdateFrequency)
   {
